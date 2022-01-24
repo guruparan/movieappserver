@@ -1,0 +1,27 @@
+{
+  "name": "movieappserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guruparan/movieappserver.git"
+  },
+  "author": "Guru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guruparan/movieappserver/issues"
+  },
+  "homepage": "https://github.com/guruparan/movieappserver#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
