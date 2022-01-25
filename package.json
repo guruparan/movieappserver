@@ -19,7 +19,9 @@
   "homepage": "https://github.com/guruparan/movieappserver#readme",
   "dependencies": {
     "axios": "^0.25.0",
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "mssql": "^7.3.0",
+    "node-cron": "^3.0.0"
   },
   "devDependencies": {
     "jest": "^27.4.7"
