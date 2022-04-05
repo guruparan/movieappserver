@@ -81,15 +81,6 @@ app.get("/gateway/:externalref", function (req, res) {
   res.send(JSON.stringify("https://95pqth.sse.codesandbox.io/"));
 });
 
-var cron = require('node-cron');
-const { sync } = require('./SyncJob');
-
-//Daily pattern 0 0 0 * * *
-// For ease of testing below pattern is used which runs every minute
-cron.schedule('* * * * *', () => {
-    sync();
-});
-
 app.listen(port, () => {
     console.log(`App listening at http://localhost:${port}`)
 });
