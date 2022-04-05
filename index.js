@@ -81,6 +81,6 @@ app.get("/gateway/:externalref", function (req, res) {
   res.send(JSON.stringify("https://95pqth.sse.codesandbox.io/"));
 });
 
-app.listen(port, () => {
+app.listen(process.env.PORT, () => {
     console.log(`App listening at http://localhost:${port}`)
 });
