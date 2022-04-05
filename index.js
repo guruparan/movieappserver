@@ -51,14 +51,14 @@ app.get('/movies/:id', (req, res) => {
 const data = [
   {
     externalStateEvaluationReference: "de4f3c04-d440-4c20-8132-ff30eaf1f69a",
-    externalUnitId: "test:12",
+    externalUnitId: "finnvedensbils-api:3032",
     selectedValuationDefectIds: [1, 2, 3, 4, 5],
     parentValuationId: 37523,
     regNo: "CF66090"
   },
   {
     externalStateEvaluationReference: "92c74956-bad5-4885-911f-88d366c6f15d",
-    externalUnitId: "test:45",
+    externalUnitId: "finnvedensbils-api:3032",
     selectedValuationDefectIds: [1, 2, 3, 4, 5],
     parentValuationId: 37522,
     regNo: "CF66091"
