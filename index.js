@@ -62,6 +62,11 @@ const data = [
     selectedValuationDefectIds: [1, 2, 3, 4, 5],
     parentValuationId: 37522,
     regNo: "CF66091"
+  },
+  {
+    externalStateEvaluationReference: "49412c6d-96fe-4b29-a7c2-c4ef91796a84",
+    externalUnitId: "finnvedensbils-api:3032",
+    regNo: "CF66085"
   }
 ];
 
