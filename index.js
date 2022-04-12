@@ -60,7 +60,7 @@ const data = [
     externalStateEvaluationReference: "92c74956-bad5-4885-911f-88d366c6f15d",
     externalUnitId: "finnvedensbils-api:3032",
     selectedValuationDefectIds: [1, 2, 3, 4, 5],
-    parentValuationId: 37522,
+    parentValuationId: 37998,
     regNo: "CF66091"
   },
   {
