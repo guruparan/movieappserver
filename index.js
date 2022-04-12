@@ -53,18 +53,18 @@ const data = [
     externalStateEvaluationReference: "de4f3c04-d440-4c20-8132-ff30eaf1f69a",
     externalUnitId: "finnvedensbils-api:3032",
     selectedValuationDefectIds: [1, 2, 3, 4, 5],
-    parentValuationId: 37938,
+    parentValuationId: 37759,
     regNo: "CF66090"
   },
   {
     externalStateEvaluationReference: "92c74956-bad5-4885-911f-88d366c6f15d",
     externalUnitId: "finnvedensbils-api:3032",
     selectedValuationDefectIds: [1, 2, 3, 4, 5],
-    parentValuationId: 37919,
+    parentValuationId: 37749,
     regNo: "CF66091"
   },
   {
-    externalStateEvaluationReference: "49412c6d-96fe-4b29-a7c2-c4ef91796a84",
+    externalStateEvaluationReference: "49412c6d-96fe-4b29-a7c2-c4ef91796a88",
     externalUnitId: "finnvedensbils-api:3032",
     regNo: "CF66085"
   }
